@@ -6,18 +6,18 @@ Temos o prazer de anunciar os **três primeiros colocados** deste projeto inovad
 
 ## 🎖️ Classificação Final
 
-1. 🥇 **Primeiro Colocado:** 
+1. 🥇 **Primeiro Colocado:** MegBet
    - Integrantes:
      - Elen Beatriz De Souza Veloso
      - Matheus Ferreira Matoso
      - Gabriela Moraes Marques
 
-2. 🥈 **Segundo Colocado:** 
+2. 🥈 **Segundo Colocado:** bethanosdoparaguay
    - Integrantes:
      - Ericki do Carmo Silva
      - Eduarda Marcella Freitas de Souza
 
-3. 🥉 **Terceiro Colocado:** 
+3. 🥉 **Terceiro Colocado:** petano2024
    - Integrantes:
      - Emanuel Da Silva da Luz
      - João Pedro de Decco Marques
