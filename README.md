@@ -6,18 +6,18 @@ Temos o prazer de anunciar os **três primeiros colocados** deste projeto inovad
 
 ## 🎖️ Classificação Final
 
-1. 🥇 **Primeiro Colocado:** Equipe
+1. 🥇 **Primeiro Colocado:** 
    - Integrantes:
      - Elen Beatriz De Souza Veloso
      - Matheus Ferreira Matoso
      - Gabriela Moraes Marques
 
-2. 🥈 **Segundo Colocado:** Equipe
+2. 🥈 **Segundo Colocado:** 
    - Integrantes:
      - Ericki do Carmo Silva
      - Eduarda Marcella Freitas de Souza
 
-3. 🥉 **Terceiro Colocado:** Equipe
+3. 🥉 **Terceiro Colocado:** 
    - Integrantes:
      - Emanuel Da Silva da Luz
      - João Pedro de Decco Marques
